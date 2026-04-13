@@ -184,8 +184,7 @@ export const navigationsData: NavigationType[] = [
       },
       {
         title: "Todo",
-        href: "#",
-        label: "Soon",
+        href: "/apps/todo",
         iconName: "ListTodo",
       },
     ],
